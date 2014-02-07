@@ -67,10 +67,24 @@
       <file leaf-file-name="PersonListPanel.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/practice4/PersonListPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="23" selection-start="635" selection-end="635" vertical-scroll-proportion="0.47058824" vertical-offset="92" max-vertical-offset="738">
+            <state line="12" column="0" selection-start="425" selection-end="425" vertical-scroll-proportion="0.15448852" vertical-offset="68" max-vertical-offset="1026">
               <folding>
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#setListModel#0;class#PersonListPanel#0" expanded="false" />
+                <element signature="method#getListField#0;class#PersonListPanel#0" expanded="false" />
+                <element signature="method#valueChanged#0;class#PersonListPanel#0" expanded="false" />
+                <element signature="method#actionPerformed#0;class#PersonListPanel#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonRenderer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice4/PersonRenderer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="21" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,17 +93,16 @@
       <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice4/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="31" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="1008">
+            <state line="32" column="59" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="1044">
               <folding>
                 <element signature="method#Person#0;class#Person#0" expanded="false" />
-                <element signature="class#Gender#0;class#Person#0" expanded="false" />
                 <element signature="method#Person#1;class#Person#0" expanded="false" />
+                <element signature="class#Gender#0;class#Person#0" expanded="false" />
                 <element signature="method#setName#0;class#Person#0" expanded="false" />
                 <element signature="method#setDateOfBirth#0;class#Person#0" expanded="false" />
                 <element signature="method#setEmail#0;class#Person#0" expanded="false" />
                 <element signature="method#setHeigth#0;class#Person#0" expanded="false" />
                 <element signature="method#setGender#0;class#Person#0" expanded="false" />
-                <element signature="method#addPropertyChangeListener#0;class#Person#0" expanded="false" />
                 <element signature="method#toString#0;class#Person#0" expanded="false" />
               </folding>
             </state>
@@ -99,7 +112,7 @@
       <file leaf-file-name="task4.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice4/task4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="403" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+            <state line="20" column="16" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0" vertical-offset="116" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
@@ -108,7 +121,7 @@
       <file leaf-file-name="PersonPanel.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice4/PersonPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="24" selection-start="2525" selection-end="2525" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="702">
+            <state line="83" column="8" selection-start="2499" selection-end="2499" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
               <folding>
                 <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
                 <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
@@ -146,17 +159,18 @@
         <option value="$PROJECT_DIR$/src/practice3/Person.java" />
         <option value="$PROJECT_DIR$/src/practice3/Main.java" />
         <option value="$PROJECT_DIR$/src/practice4/task4.java" />
-        <option value="$PROJECT_DIR$/src/practice4/PersonListPanel.java" />
         <option value="$PROJECT_DIR$/src/practice4/Person.java" />
+        <option value="$PROJECT_DIR$/src/practice4/PersonRenderer.java" />
+        <option value="$PROJECT_DIR$/src/practice4/PersonListPanel.java" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1919" />
+    <option name="x" value="1365" />
     <option name="y" value="-4" />
-    <option name="width" value="1368" />
-    <option name="height" value="773" />
+    <option name="width" value="1922" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -267,7 +281,7 @@
       <recent name="$PROJECT_DIR$/src/practice3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PersonListPanel">
+  <component name="RunManager" selected="Application.task4">
     <configuration default="false" name="ButtonsNText" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -559,8 +573,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PersonListPanel" />
-        <item index="1" class="java.lang.String" itemvalue="Application.task4" />
+        <item index="0" class="java.lang.String" itemvalue="Application.task4" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PersonListPanel" />
         <item index="2" class="java.lang.String" itemvalue="Application.Main" />
         <item index="3" class="java.lang.String" itemvalue="Application.PersonPanel" />
         <item index="4" class="java.lang.String" itemvalue="Application.ButtonsNText" />
@@ -587,12 +601,12 @@
       <workItem from="1391588758916" duration="807000" />
       <workItem from="1391596901016" duration="1631000" />
       <workItem from="1391632252807" duration="30000" />
-      <workItem from="1391679856562" duration="7799000" />
+      <workItem from="1391679856562" duration="18180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32606000" />
+    <option name="totallyTimeSpent" value="42987000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -615,38 +629,68 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1919" y="-4" width="1368" height="773" extended-state="6" />
+    <frame x="1365" y="-4" width="1922" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32789317" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32789317" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19472913" sideWeight="0.6097923" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13854167" sideWeight="0.6097923" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32789317" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32937685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19472913" sideWeight="0.6097923" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -669,20 +713,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/practice3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="41" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice3/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="29" selection-start="2162" selection-end="2162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1800">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanelPassive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="954">
@@ -1126,9 +1156,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice4/task4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="16" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0" vertical-offset="116" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/practice4/PersonPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="24" selection-start="2525" selection-end="2525" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="702">
+        <state line="83" column="8" selection-start="2499" selection-end="2499" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
           <folding>
             <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
             <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
@@ -1144,37 +1181,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice4/task4.java">
+    <entry file="file://$PROJECT_DIR$/src/practice4/PersonRenderer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="403" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <folding />
+        <state line="10" column="21" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice4/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="31" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="1008">
+        <state line="32" column="59" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="1044">
           <folding>
             <element signature="method#Person#0;class#Person#0" expanded="false" />
-            <element signature="class#Gender#0;class#Person#0" expanded="false" />
             <element signature="method#Person#1;class#Person#0" expanded="false" />
+            <element signature="class#Gender#0;class#Person#0" expanded="false" />
             <element signature="method#setName#0;class#Person#0" expanded="false" />
             <element signature="method#setDateOfBirth#0;class#Person#0" expanded="false" />
             <element signature="method#setEmail#0;class#Person#0" expanded="false" />
             <element signature="method#setHeigth#0;class#Person#0" expanded="false" />
             <element signature="method#setGender#0;class#Person#0" expanded="false" />
-            <element signature="method#addPropertyChangeListener#0;class#Person#0" expanded="false" />
             <element signature="method#toString#0;class#Person#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/javax/swing/event/ListSelectionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="7" selection-start="624" selection-end="624" vertical-scroll-proportion="0.4321503" vertical-offset="0" max-vertical-offset="958">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/practice4/PersonListPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="23" selection-start="635" selection-end="635" vertical-scroll-proportion="0.47058824" vertical-offset="92" max-vertical-offset="738">
+        <state line="12" column="0" selection-start="425" selection-end="425" vertical-scroll-proportion="0.15448852" vertical-offset="68" max-vertical-offset="1026">
           <folding>
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#setListModel#0;class#PersonListPanel#0" expanded="false" />
+            <element signature="method#getListField#0;class#PersonListPanel#0" expanded="false" />
+            <element signature="method#valueChanged#0;class#PersonListPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonListPanel#0" expanded="false" />
           </folding>
         </state>
       </provider>

@@ -1,35 +1,81 @@
 package practice4;
 
 import javax.swing.*;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
-public class PersonListPanel extends JPanel{
+public class PersonListPanel extends JPanel implements ListSelectionListener, ActionListener {
     private JList<Person> listField;
-    private DefaultListModel<Person> model;
+    private DefaultListModel<Person> listModel;
+    private JScrollPane scrollPane;
+    private PersonPanel personPanel;
+    private JButton addPersonButton;
+    private JButton removePersonButton;
 
-    public void setModel(DefaultListModel<Person> listModel){
+    public PersonListPanel() {
+        listModel = new DefaultListModel<Person>();
+        listField = new JList<Person>();
+        scrollPane = new JScrollPane(listField);
+        addPersonButton = new JButton("Add person");
+        removePersonButton = new JButton("Delete person");
+
+        listField.addListSelectionListener(this);
+        addPersonButton.addActionListener(this);
+        removePersonButton.addActionListener(this);
+
+        listField.setSize(250, 350);
+        listField.setCellRenderer(new PersonRenderer());
+
+        listModel.addElement(new Person("Jonatan"));
+        listModel.addElement(new Person("Baggis bjørn"));
+        listModel.addElement(new Person("Jonatan"));
+
+        setListModel(listModel);
+        add(scrollPane);
+        add(addPersonButton);
+        add(removePersonButton);
+    }
+
+    public void setPersonPanel(PersonPanel personPanel) {
+        this.personPanel = personPanel;
+    }
+
+    public void setListModel(DefaultListModel<Person> listModel){
         listField.setModel(listModel);
     }
 
-    public JList getListField() {
-        return listField;
+    public Person getListField() {
+        return listField.getSelectedValue();
     }
 
-    public PersonListPanel() {
-        model = new DefaultListModel<Person>();
-        model.addElement(new Person("Jonatan"));
-        model.addElement(new Person("Jonatan"));
-        model.addElement(new Person("Jonatan"));
-        listField = new JList<Person>();
-        setModel(model);
-        add(listField);
+    @Override
+    public void valueChanged(ListSelectionEvent e) {
+        if (listField.getSelectedValue() != null){
+            Person model = listField.getSelectedValue();
+            personPanel.setModel(model);
+        }
     }
 
-    public static void main(String[] args) {
-        JFrame frame = new JFrame("Test");
-        frame.getContentPane().add(new PersonListPanel());
-        frame.pack();
-        frame.setSize(300, 300);
-        frame.setVisible(true);
-
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        if (e.getSource() == addPersonButton){
+            if (listField.getSelectedValue() != null && listField.getSelectedValue().equals(personPanel.getModel()))   {
+                personPanel.setModel(new Person());
+                return;
+            }
+            if ( personPanel.getModel().getName().equals("")) {
+                listField.clearSelection();
+                return;
+            }
+            Person model = personPanel.getModel();
+            listModel.addElement(model);
+        } else {
+            if (listField.getSelectedValue() != null){
+                listModel.removeElement(listField.getSelectedValue());
+                personPanel.setModel(new Person());
+            }
+        }
     }
 }

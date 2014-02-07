@@ -20,15 +20,16 @@ public class Person {
 
     public Person(String name) {
         this.name = name;
+        pcs = new PropertyChangeSupport(this);
+    }
+
+    public Person() {
+        pcs = new PropertyChangeSupport(this);
     }
 
     public static enum Gender {
         MALE,
         FEMALE
-    }
-
-    public Person() {
-        pcs = new PropertyChangeSupport(this);
     }
 
     public String getName() {

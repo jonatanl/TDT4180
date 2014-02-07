@@ -5,17 +5,14 @@ import javax.swing.*;
 public class task4 extends JPanel{
     private PersonPanel panel;
     private PersonListPanel listPanel;
-
     private Person model;
 
     public task4() {
-        model = new Person();
         panel = new PersonPanel();
         listPanel = new PersonListPanel();
-
-
-        add(panel);
+        listPanel.setPersonPanel(panel);
         add(listPanel);
+        add(panel);
     }
 
     public static void main(String[] args) {
