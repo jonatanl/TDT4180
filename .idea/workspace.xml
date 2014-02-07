@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b527f885-442e-43b0-99c5-0fc9ec5f7bf5" name="Default" comment="" />
+    <ignored path="tasks.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="tasks" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PersonListPanel.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/practice4/PersonListPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="23" selection-start="635" selection-end="635" vertical-scroll-proportion="0.47058824" vertical-offset="92" max-vertical-offset="738">
+              <folding>
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice4/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="31" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="1008">
+              <folding>
+                <element signature="method#Person#0;class#Person#0" expanded="false" />
+                <element signature="class#Gender#0;class#Person#0" expanded="false" />
+                <element signature="method#Person#1;class#Person#0" expanded="false" />
+                <element signature="method#setName#0;class#Person#0" expanded="false" />
+                <element signature="method#setDateOfBirth#0;class#Person#0" expanded="false" />
+                <element signature="method#setEmail#0;class#Person#0" expanded="false" />
+                <element signature="method#setHeigth#0;class#Person#0" expanded="false" />
+                <element signature="method#setGender#0;class#Person#0" expanded="false" />
+                <element signature="method#addPropertyChangeListener#0;class#Person#0" expanded="false" />
+                <element signature="method#toString#0;class#Person#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task4.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice4/task4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="0" selection-start="403" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonPanel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice4/PersonPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="85" column="24" selection-start="2525" selection-end="2525" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="702">
+              <folding>
+                <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+                <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+                <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+                <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+                <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+                <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+                <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+                <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+                <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+                <element signature="method#propertyChange#0;class#PersonPanel#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/practice1/ButtonsNText.java" />
+        <option value="$PROJECT_DIR$/src/practice2/Person.java" />
+        <option value="$PROJECT_DIR$/src/practice2/PersonPanel.java" />
+        <option value="$PROJECT_DIR$/src/practice3/main.java" />
+        <option value="$PROJECT_DIR$/src/practice3/PersonPanelExtended.java" />
+        <option value="$PROJECT_DIR$/src/practice3/PersonExtended.java" />
+        <option value="$PROJECT_DIR$/src/practice3/PersonPanelPassive.java" />
+        <option value="$PROJECT_DIR$/src/practice3/PersonPanel.java" />
+        <option value="$PROJECT_DIR$/src/practice3/Person.java" />
+        <option value="$PROJECT_DIR$/src/practice3/Main.java" />
+        <option value="$PROJECT_DIR$/src/practice4/task4.java" />
+        <option value="$PROJECT_DIR$/src/practice4/PersonListPanel.java" />
+        <option value="$PROJECT_DIR$/src/practice4/Person.java" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1919" />
+    <option name="y" value="-4" />
+    <option name="width" value="1368" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/practice4" />
+      <recent name="$PROJECT_DIR$/src/practice3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PersonListPanel">
+    <configuration default="false" name="ButtonsNText" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="practice1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="practice1.ButtonsNText" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="tasks" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PersonPanel" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="practice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="practice2.PersonPanel" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="tasks" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="practice3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="practice3.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="tasks" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="practice4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="practice4.task4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="tasks" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PersonListPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="practice4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="practice4.PersonListPanel" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="tasks" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.ButtonsNText" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PersonPanel" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.task4" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PersonListPanel" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.PersonListPanel" />
+        <item index="1" class="java.lang.String" itemvalue="Application.task4" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PersonPanel" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ButtonsNText" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b527f885-442e-43b0-99c5-0fc9ec5f7bf5" name="Default" comment="" />
+      <created>1389892972012</created>
+      <updated>1389892972012</updated>
+      <workItem from="1390390450590" duration="4428000" />
+      <workItem from="1390410717319" duration="220000" />
+      <workItem from="1390483565316" duration="3399000" />
+      <workItem from="1390562051522" duration="191000" />
+      <workItem from="1391423402857" duration="157000" />
+      <workItem from="1391423638795" duration="7406000" />
+      <workItem from="1391516824551" duration="6538000" />
+      <workItem from="1391588758916" duration="807000" />
+      <workItem from="1391596901016" duration="1631000" />
+      <workItem from="1391632252807" duration="30000" />
+      <workItem from="1391679856562" duration="7799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32606000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1919" y="-4" width="1368" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32789317" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19472913" sideWeight="0.6097923" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/practice3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="41" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="29" selection-start="2162" selection-end="2162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanelPassive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="954">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="57" selection-start="3399" selection-end="3399" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="702">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#propertyChange#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="41" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanelPassive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="954">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="39" selection-start="2309" selection-end="2309" vertical-scroll-proportion="0.0" vertical-offset="1332" max-vertical-offset="2376">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#propertyChange#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="53" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanelPassive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="954">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="39" selection-start="2309" selection-end="2309" vertical-scroll-proportion="0.0" vertical-offset="1332" max-vertical-offset="2376">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#propertyChange#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="20" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="5" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1566">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanelPassive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="30" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="216">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="45" selection-start="3888" selection-end="3888" vertical-scroll-proportion="0.0" vertical-offset="2214" max-vertical-offset="2358">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#propertyChange#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="32" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="342">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="30" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="774">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="30" selection-start="3188" selection-end="3188" vertical-scroll-proportion="0.0" vertical-offset="1926" max-vertical-offset="2214">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#propertyChange#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="18" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1314">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="44" selection-start="3488" selection-end="3488" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="702">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="18" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="1314">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="44" selection-start="3488" selection-end="3488" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="702">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="44" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="1" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="1242" max-vertical-offset="1296">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="44" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="1" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="1242" max-vertical-offset="1296">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="10" selection-start="1647" selection-end="1647" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice1/ButtonsNText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="1216" selection-end="1344" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="69" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="61" selection-start="1585" selection-end="1585" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice1/ButtonsNText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="69" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="25" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice1/ButtonsNText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/task1/ButtonsNTextTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice1/ButtonsNText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/task1/ButtonsNTextTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice1/ButtonsNText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/task1/ButtonsNTextTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice1/ButtonsNText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="16" selection-start="1565" selection-end="1565" vertical-scroll-proportion="-0.36092716" vertical-offset="0" max-vertical-offset="0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="18" selection-start="335" selection-end="335" vertical-scroll-proportion="-0.055727553" vertical-offset="342" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="0" selection-start="2345" selection-end="2496" vertical-scroll-proportion="0.44272447" vertical-offset="56" max-vertical-offset="792">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="29" selection-start="2162" selection-end="2162" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="972">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="34" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="0" selection-start="1839" selection-end="1839" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#propertyChange#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanelPassive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.6130031" vertical-offset="0" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice4/PersonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="24" selection-start="2525" selection-end="2525" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="702">
+          <folding>
+            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
+            <element signature="method#propertyChange#0;class#PersonPanel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice4/task4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="403" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice4/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="31" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="1008">
+          <folding>
+            <element signature="method#Person#0;class#Person#0" expanded="false" />
+            <element signature="class#Gender#0;class#Person#0" expanded="false" />
+            <element signature="method#Person#1;class#Person#0" expanded="false" />
+            <element signature="method#setName#0;class#Person#0" expanded="false" />
+            <element signature="method#setDateOfBirth#0;class#Person#0" expanded="false" />
+            <element signature="method#setEmail#0;class#Person#0" expanded="false" />
+            <element signature="method#setHeigth#0;class#Person#0" expanded="false" />
+            <element signature="method#setGender#0;class#Person#0" expanded="false" />
+            <element signature="method#addPropertyChangeListener#0;class#Person#0" expanded="false" />
+            <element signature="method#toString#0;class#Person#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice4/PersonListPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="23" selection-start="635" selection-end="635" vertical-scroll-proportion="0.47058824" vertical-offset="92" max-vertical-offset="738">
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
