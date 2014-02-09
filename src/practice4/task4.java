@@ -5,7 +5,6 @@ import javax.swing.*;
 public class task4 extends JPanel{
     private PersonPanel panel;
     private PersonListPanel listPanel;
-    private Person model;
 
     public task4() {
         panel = new PersonPanel();

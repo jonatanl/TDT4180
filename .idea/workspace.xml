@@ -67,14 +67,8 @@
       <file leaf-file-name="PersonListPanel.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/practice4/PersonListPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="425" selection-end="425" vertical-scroll-proportion="0.15448852" vertical-offset="68" max-vertical-offset="1026">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#setListModel#0;class#PersonListPanel#0" expanded="false" />
-                <element signature="method#getListField#0;class#PersonListPanel#0" expanded="false" />
-                <element signature="method#valueChanged#0;class#PersonListPanel#0" expanded="false" />
-                <element signature="method#actionPerformed#0;class#PersonListPanel#0" expanded="false" />
-              </folding>
+            <state line="36" column="49" selection-start="1341" selection-end="1341" vertical-scroll-proportion="0.41753653" vertical-offset="176" max-vertical-offset="1404">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -82,28 +76,9 @@
       <file leaf-file-name="PersonRenderer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice4/PersonRenderer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="21" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+            <state line="31" column="35" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practice4/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="59" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="1044">
-              <folding>
-                <element signature="method#Person#0;class#Person#0" expanded="false" />
-                <element signature="method#Person#1;class#Person#0" expanded="false" />
-                <element signature="class#Gender#0;class#Person#0" expanded="false" />
-                <element signature="method#setName#0;class#Person#0" expanded="false" />
-                <element signature="method#setDateOfBirth#0;class#Person#0" expanded="false" />
-                <element signature="method#setEmail#0;class#Person#0" expanded="false" />
-                <element signature="method#setHeigth#0;class#Person#0" expanded="false" />
-                <element signature="method#setGender#0;class#Person#0" expanded="false" />
-                <element signature="method#toString#0;class#Person#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -112,7 +87,7 @@
       <file leaf-file-name="task4.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice4/task4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="16" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0" vertical-offset="116" max-vertical-offset="540">
+            <state line="6" column="38" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
               <folding />
             </state>
           </provider>
@@ -121,7 +96,7 @@
       <file leaf-file-name="PersonPanel.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practice4/PersonPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="8" selection-start="2499" selection-end="2499" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
+            <state line="16" column="46" selection-start="638" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
               <folding>
                 <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
                 <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
@@ -158,8 +133,8 @@
         <option value="$PROJECT_DIR$/src/practice3/PersonPanel.java" />
         <option value="$PROJECT_DIR$/src/practice3/Person.java" />
         <option value="$PROJECT_DIR$/src/practice3/Main.java" />
-        <option value="$PROJECT_DIR$/src/practice4/task4.java" />
         <option value="$PROJECT_DIR$/src/practice4/Person.java" />
+        <option value="$PROJECT_DIR$/src/practice4/task4.java" />
         <option value="$PROJECT_DIR$/src/practice4/PersonRenderer.java" />
         <option value="$PROJECT_DIR$/src/practice4/PersonListPanel.java" />
       </list>
@@ -200,7 +175,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -219,40 +193,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="practice4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tasks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -601,12 +544,15 @@
       <workItem from="1391588758916" duration="807000" />
       <workItem from="1391596901016" duration="1631000" />
       <workItem from="1391632252807" duration="30000" />
-      <workItem from="1391679856562" duration="18180000" />
+      <workItem from="1391679856562" duration="18845000" />
+      <workItem from="1391857131141" duration="8405000" />
+      <workItem from="1391954325480" duration="76000" />
+      <workItem from="1391974319528" duration="1682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42987000" />
+    <option name="totallyTimeSpent" value="53815000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -642,14 +588,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286004" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13854167" sideWeight="0.6097923" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13802083" sideWeight="0.6097923" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -660,6 +605,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -715,9 +661,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanelPassive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="954">
-          <folding />
-        </state>
+        <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="954" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanel.java">
@@ -740,23 +684,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="41" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="630">
-          <folding />
-        </state>
+        <state line="12" column="41" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="630" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1800">
-          <folding />
-        </state>
+        <state line="20" column="0" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1800" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanelPassive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="954">
-          <folding />
-        </state>
+        <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="954" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanel.java">
@@ -779,23 +717,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="53" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="612">
-          <folding />
-        </state>
+        <state line="11" column="53" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="612" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1800">
-          <folding />
-        </state>
+        <state line="20" column="0" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1800" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanelPassive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="954">
-          <folding />
-        </state>
+        <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="954" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanel.java">
@@ -818,23 +750,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="612">
-          <folding />
-        </state>
+        <state line="17" column="20" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="612" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="5" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1566">
-          <folding />
-        </state>
+        <state line="68" column="5" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1566" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanelPassive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="30" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="216">
-          <folding />
-        </state>
+        <state line="3" column="30" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="216" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanel.java">
@@ -857,16 +783,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="32" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="342">
-          <folding />
-        </state>
+        <state line="13" column="32" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="342" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="30" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="774">
-          <folding />
-        </state>
+        <state line="10" column="30" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="774" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanel.java">
@@ -889,115 +811,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="18" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1314">
-          <folding />
-        </state>
+        <state line="19" column="18" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1314" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="44" selection-start="3488" selection-end="3488" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="702">
-          <folding>
-            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="118" column="44" selection-start="3488" selection-end="3488" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="702" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="18" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="1314">
-          <folding />
-        </state>
+        <state line="19" column="18" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="1314" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="44" selection-start="3488" selection-end="3488" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="702">
-          <folding>
-            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="118" column="44" selection-start="3488" selection-end="3488" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="702" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="44" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
-          <folding />
-        </state>
+        <state line="44" column="44" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="1" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="1242" max-vertical-offset="1296">
-          <folding>
-            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="69" column="1" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="1242" max-vertical-offset="1296" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="44" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
-          <folding />
-        </state>
+        <state line="44" column="44" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="1" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="1242" max-vertical-offset="1296">
-          <folding>
-            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="69" column="1" selection-start="1976" selection-end="1976" vertical-scroll-proportion="0.0" vertical-offset="1242" max-vertical-offset="1296" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="10" selection-start="1647" selection-end="1647" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding>
-            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="56" column="10" selection-start="1647" selection-end="1647" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice1/ButtonsNText.java">
@@ -1007,26 +861,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="69" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="11" column="69" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="61" selection-start="1585" selection-end="1585" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding>
-            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="52" column="61" selection-start="1585" selection-end="1585" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice1/ButtonsNText.java">
@@ -1036,26 +876,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="69" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="11" column="69" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="25" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding>
-            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="6" column="25" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice1/ButtonsNText.java">
@@ -1095,40 +921,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="18" selection-start="335" selection-end="335" vertical-scroll-proportion="-0.055727553" vertical-offset="342" max-vertical-offset="990">
-          <folding />
-        </state>
+        <state line="19" column="18" selection-start="335" selection-end="335" vertical-scroll-proportion="-0.055727553" vertical-offset="342" max-vertical-offset="990" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice2/PersonPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="0" selection-start="2345" selection-end="2496" vertical-scroll-proportion="0.44272447" vertical-offset="56" max-vertical-offset="792">
-          <folding>
-            <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#addListeners#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#setModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#getModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateGUI#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#updateModel#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#PersonPanel#0" expanded="false" />
-            <element signature="method#stateChanged#0;class#PersonPanel#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="77" column="0" selection-start="2345" selection-end="2496" vertical-scroll-proportion="0.44272447" vertical-offset="56" max-vertical-offset="792" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="29" selection-start="2162" selection-end="2162" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="972">
-          <folding />
-        </state>
+        <state line="84" column="29" selection-start="2162" selection-end="2162" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="34" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="630">
-          <folding />
-        </state>
+        <state line="12" column="34" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="630" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanel.java">
@@ -1151,21 +959,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice3/PersonPanelPassive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.6130031" vertical-offset="0" max-vertical-offset="918">
-          <folding />
-        </state>
+        <state line="24" column="32" selection-start="914" selection-end="914" vertical-scroll-proportion="0.6130031" vertical-offset="0" max-vertical-offset="918" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice4/task4.java">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/javax/swing/event/ListSelectionListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0" vertical-offset="116" max-vertical-offset="540">
+        <state line="46" column="7" selection-start="624" selection-end="624" vertical-scroll-proportion="0.4321503" vertical-offset="0" max-vertical-offset="958" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice4/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="28" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.2672234" vertical-offset="626" max-vertical-offset="1584">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice4/PersonPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="8" selection-start="2499" selection-end="2499" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
+        <state line="16" column="46" selection-start="638" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
           <folding>
             <element signature="method#PersonPanel#0;class#PersonPanel#0" expanded="false" />
             <element signature="method#slider#0;class#PersonPanel#0" expanded="false" />
@@ -1183,47 +994,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice4/PersonRenderer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+        <state line="31" column="35" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice4/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/practice4/task4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="59" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="1044">
-          <folding>
-            <element signature="method#Person#0;class#Person#0" expanded="false" />
-            <element signature="method#Person#1;class#Person#0" expanded="false" />
-            <element signature="class#Gender#0;class#Person#0" expanded="false" />
-            <element signature="method#setName#0;class#Person#0" expanded="false" />
-            <element signature="method#setDateOfBirth#0;class#Person#0" expanded="false" />
-            <element signature="method#setEmail#0;class#Person#0" expanded="false" />
-            <element signature="method#setHeigth#0;class#Person#0" expanded="false" />
-            <element signature="method#setGender#0;class#Person#0" expanded="false" />
-            <element signature="method#toString#0;class#Person#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/javax/swing/event/ListSelectionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="7" selection-start="624" selection-end="624" vertical-scroll-proportion="0.4321503" vertical-offset="0" max-vertical-offset="958">
+        <state line="6" column="38" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice4/PersonListPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="425" selection-end="425" vertical-scroll-proportion="0.15448852" vertical-offset="68" max-vertical-offset="1026">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#setListModel#0;class#PersonListPanel#0" expanded="false" />
-            <element signature="method#getListField#0;class#PersonListPanel#0" expanded="false" />
-            <element signature="method#valueChanged#0;class#PersonListPanel#0" expanded="false" />
-            <element signature="method#actionPerformed#0;class#PersonListPanel#0" expanded="false" />
-          </folding>
+        <state line="36" column="49" selection-start="1341" selection-end="1341" vertical-scroll-proportion="0.41753653" vertical-offset="176" max-vertical-offset="1404">
+          <folding />
         </state>
       </provider>
     </entry>

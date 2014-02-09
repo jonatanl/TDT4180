@@ -30,7 +30,9 @@ public class PersonListPanel extends JPanel implements ListSelectionListener, Ac
 
         listModel.addElement(new Person("Jonatan"));
         listModel.addElement(new Person("Baggis bjørn"));
-        listModel.addElement(new Person("Jonatan"));
+        Person girl = new Person("girl");
+        girl.setGender(Person.Gender.FEMALE);
+        listModel.addElement(girl);
 
         setListModel(listModel);
         add(scrollPane);
@@ -44,10 +46,6 @@ public class PersonListPanel extends JPanel implements ListSelectionListener, Ac
 
     public void setListModel(DefaultListModel<Person> listModel){
         listField.setModel(listModel);
-    }
-
-    public Person getListField() {
-        return listField.getSelectedValue();
     }
 
     @Override
