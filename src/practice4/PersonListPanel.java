@@ -28,9 +28,16 @@ public class PersonListPanel extends JPanel implements ListSelectionListener, Ac
         listField.setSize(250, 350);
         listField.setCellRenderer(new PersonRenderer());
 
-        listModel.addElement(new Person("Jonatan"));
-        listModel.addElement(new Person("Baggis bjørn"));
+        Person person = new Person("Jonatan");
+        person.setEmail("test@test.com");
+        listModel.addElement(person);
+
+        person = new Person("Baggis bjørn");
+        person.setEmail("test@test.com");
+        listModel.addElement(person);
+
         Person girl = new Person("girl");
+        girl.setEmail("test@test.com");
         girl.setGender(Person.Gender.FEMALE);
         listModel.addElement(girl);
 
